@@ -8,9 +8,10 @@ IllustratorScript is a comprehensive project integrating various tools and featu
 - **Purpose**: Quickly adds outer outlines to SketchUp-exported geometry.
 - **Benefit**: Saves time and ensures consistent graphics for professional projects.
  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./github_page/AutomaticOutlineEffects4Geometry.jpg">
-Check out the demo video for the **Automatic Outline Effects** tool:  
-[![Watch the demo](./github_page/AutomaticOutlineEffects4Geometry.mp4)](./github_page/AutomaticOutlineEffects4Geometry.mp4)
-
+<video width="600" controls>
+  <source src="./github_page/AutomaticOutlineEffects4Geometry.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ## License
