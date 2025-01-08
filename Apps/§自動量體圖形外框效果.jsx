@@ -1,4 +1,4 @@
-// @target illustrator
+@target illustrator
 // 自動量體圖形外框效果
 // 可能出現顯示錯誤，存檔後重新開啟即可
 var pluginName = "自動量體圖形外框效果";

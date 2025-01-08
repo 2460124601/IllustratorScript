@@ -7,9 +7,15 @@ IllustratorScript is a comprehensive project integrating various tools and featu
 ### Tool-000: Automatic Outline Effects for Geometry(自動量體圖形外框效果)
 - **Purpose**: Quickly adds outer outlines to SketchUp-exported geometry.
 - **Benefit**: Saves time and ensures consistent graphics for professional projects.
- <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="./github_page/AutomaticOutlineEffects4Geometry.jpg">
+- **用途**:快速為從 SketchUp 匯出的圖形添加外框效果。
+
+ <img alt="" src="./github_page/AutomaticOutlineEffects4Geometry.jpg">
 [![Watch the video]](https://youtu.be/uz0WMM3wSlw)
 
+### Tool-001: 物件控制點顯示
+- **用途**:顯示物件的錨點、控制桿、控制點。請參考影片說明！
+ <img alt="" src="./github_page/AnchorSpotlight.jpg">
+[![Watch the video]](https://youtu.be/ZY_WhKUyodo)
 
 
 

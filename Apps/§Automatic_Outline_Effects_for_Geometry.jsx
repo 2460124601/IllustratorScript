@@ -1,4 +1,4 @@
-// @target illustrator
+@target illustrator
 // Automatic Outline Effects for Geometry
 // If display errors occur, save the file and reopen it.
 var pluginName = "Automatic Outline Effects for Geometry";
